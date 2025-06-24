@@ -27,7 +27,7 @@ const Footer = () => {
           <h4>Contact Us</h4>
           <p style={{ color: "white" }}>439B Health Avenue</p>
           <p style={{ color: "white" }}> Varanasi ,India</p>
-          <p style={{ color: "white" }}><i className="fas fa-phone-alt"></i> +91 987 373 4838</p>
+          <p style={{ color: "white" }}><i className="fas fa-phone-alt"></i> +919873734838</p>
           <p style={{ color: "white" }}><i className="fas fa-envelope"></i> aman.kumar@gmail.com</p>
         </div>
 

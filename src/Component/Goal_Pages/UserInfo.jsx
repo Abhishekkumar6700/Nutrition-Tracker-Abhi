@@ -56,7 +56,7 @@ const UserInfo = () => {
       <h3
         style={{
           fontSize: "2.3rem",
-          color: "black",
+          color: "#737373",
           textAlign: "center",
           marginTop: "3%",
         }}
